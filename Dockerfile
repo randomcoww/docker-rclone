@@ -1,6 +1,6 @@
 FROM alpine:edge AS BUILD
 
-ENV VERSION v1.50.1
+ENV VERSION v1.50.2
 
 RUN set -x \
   \
